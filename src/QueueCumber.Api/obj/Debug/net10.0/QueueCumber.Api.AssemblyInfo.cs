@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QueueCumber.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8348a1eedddafa1310ef06ab6622142df2496117")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1d567e8f0873e16889bd05b9b218842453bdd6fd")]
 [assembly: System.Reflection.AssemblyProductAttribute("QueueCumber.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QueueCumber.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

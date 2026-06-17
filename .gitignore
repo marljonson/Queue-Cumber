@@ -1,3 +1,5 @@
 Set-Content -Path .gitignore -Value @"
 
 .vs/
+src/QueueCumber.Api/bin/
+src/QueueCumber.Api/obj/
