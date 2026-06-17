@@ -1,0 +1,6 @@
+@QueueCumber.Api_HostAddress = http://localhost:5139
+
+GET {{QueueCumber.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
