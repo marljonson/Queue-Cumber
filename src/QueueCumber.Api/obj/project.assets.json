@@ -36,6 +36,42 @@
             "related": ".pdb;.xml"
           }
         }
+      },
+      "QueueCumber.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "QueueCumber.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/QueueCumber.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/QueueCumber.Application.dll": {}
+        }
+      },
+      "QueueCumber.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/QueueCumber.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/QueueCumber.Domain.dll": {}
+        }
+      },
+      "QueueCumber.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "QueueCumber.Application": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/QueueCumber.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/QueueCumber.Infrastructure.dll": {}
+        }
       }
     }
   },
@@ -75,11 +111,28 @@
         "microsoft.openapi.2.0.0.nupkg.sha512",
         "microsoft.openapi.nuspec"
       ]
+    },
+    "QueueCumber.Application/1.0.0": {
+      "type": "project",
+      "path": "../QueueCumber.Application/QueueCumber.Application.csproj",
+      "msbuildProject": "../QueueCumber.Application/QueueCumber.Application.csproj"
+    },
+    "QueueCumber.Domain/1.0.0": {
+      "type": "project",
+      "path": "../QueueCumber.Domain/QueueCumber.Domain.csproj",
+      "msbuildProject": "../QueueCumber.Domain/QueueCumber.Domain.csproj"
+    },
+    "QueueCumber.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../QueueCumber.Infrastructure/QueueCumber.Infrastructure.csproj",
+      "msbuildProject": "../QueueCumber.Infrastructure/QueueCumber.Infrastructure.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net10.0": [
-      "Microsoft.AspNetCore.OpenApi >= 10.0.9"
+      "Microsoft.AspNetCore.OpenApi >= 10.0.9",
+      "QueueCumber.Application >= 1.0.0",
+      "QueueCumber.Infrastructure >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -115,7 +168,14 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\marl\\source\\repos\\QueueCumber\\src\\QueueCumber.Application\\QueueCumber.Application.csproj": {
+              "projectPath": "C:\\Users\\marl\\source\\repos\\QueueCumber\\src\\QueueCumber.Application\\QueueCumber.Application.csproj"
+            },
+            "C:\\Users\\marl\\source\\repos\\QueueCumber\\src\\QueueCumber.Infrastructure\\QueueCumber.Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\marl\\source\\repos\\QueueCumber\\src\\QueueCumber.Infrastructure\\QueueCumber.Infrastructure.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

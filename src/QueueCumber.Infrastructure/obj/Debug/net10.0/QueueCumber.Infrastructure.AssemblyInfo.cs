@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QueueCumber.Infrastructure")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b5e729ff3971e715f4858c4c1b03104866b1d499")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+871de95e005e012742fc06019aa254777ef27c11")]
 [assembly: System.Reflection.AssemblyProductAttribute("QueueCumber.Infrastructure")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QueueCumber.Infrastructure")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

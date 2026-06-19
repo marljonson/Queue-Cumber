@@ -1,0 +1,12 @@
+C:\Users\marl\source\repos\QueueCumber\src\QueueCumber.Domain\bin\Debug\net10.0\QueueCumber.Domain.deps.json
+C:\Users\marl\source\repos\QueueCumber\src\QueueCumber.Domain\bin\Debug\net10.0\QueueCumber.Domain.dll
+C:\Users\marl\source\repos\QueueCumber\src\QueueCumber.Domain\bin\Debug\net10.0\QueueCumber.Domain.pdb
+C:\Users\marl\source\repos\QueueCumber\src\QueueCumber.Domain\obj\Debug\net10.0\QueueCumber.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marl\source\repos\QueueCumber\src\QueueCumber.Domain\obj\Debug\net10.0\QueueCumber.Domain.AssemblyInfoInputs.cache
+C:\Users\marl\source\repos\QueueCumber\src\QueueCumber.Domain\obj\Debug\net10.0\QueueCumber.Domain.AssemblyInfo.cs
+C:\Users\marl\source\repos\QueueCumber\src\QueueCumber.Domain\obj\Debug\net10.0\QueueCumber.Domain.csproj.CoreCompileInputs.cache
+C:\Users\marl\source\repos\QueueCumber\src\QueueCumber.Domain\obj\Debug\net10.0\QueueCumber.Domain.sourcelink.json
+C:\Users\marl\source\repos\QueueCumber\src\QueueCumber.Domain\obj\Debug\net10.0\QueueCumber.Domain.dll
+C:\Users\marl\source\repos\QueueCumber\src\QueueCumber.Domain\obj\Debug\net10.0\refint\QueueCumber.Domain.dll
+C:\Users\marl\source\repos\QueueCumber\src\QueueCumber.Domain\obj\Debug\net10.0\QueueCumber.Domain.pdb
+C:\Users\marl\source\repos\QueueCumber\src\QueueCumber.Domain\obj\Debug\net10.0\ref\QueueCumber.Domain.dll
